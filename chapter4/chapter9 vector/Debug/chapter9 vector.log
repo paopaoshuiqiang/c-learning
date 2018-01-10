@@ -1,0 +1,16 @@
+﻿Build started 2018/1/17 16:40:37.
+     1>Project "D:\c++learning\c-learning\chapter4\chapter9 vector\chapter9 vector.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\vs2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\chapter9 vector.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "chapter9 vector.cpp"
+         chapter9 vector.cpp
+     1>d:\c++learning\c-learning\chapter4\chapter9 vector\chapter9 vector.cpp(207): error C2676: binary '[' : 'std::list<_Ty>' does not define this operator or a conversion to a type acceptable to the predefined operator
+                 with
+                 [
+                     _Ty=int
+                 ]
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppCommon.targets(347,5): error MSB6006: "CL.exe" exited with code 2.
+     1>Done Building Project "D:\c++learning\c-learning\chapter4\chapter9 vector\chapter9 vector.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.47

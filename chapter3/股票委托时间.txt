@@ -1,0 +1,39 @@
+委托回报-单笔下单: batchno 1 time: 95649 888
+委托回报-单笔下单: batchno 2 time: 100804 698
+成交回报: batchno 1 time: 130344 671
+成交回报: batchno 2 time: 130409 413
+委托开始: batchno 3 time: 130724 398
+委托回报-单笔下单: batchno 3 time: 130724 413
+委托开始: batchno 4 time: 131056 215
+委托回报-单笔下单: batchno 4 time: 131056 215
+成交回报: batchno 4 time: 131356 598
+成交回报: batchno 3 time: 131434 974
+
+
+委托开始: batchno 5 time: 132419 882
+委托回报-单笔下单: batchno 5 time: 132419 897
+成交回报: batchno 5 time: 132420 334
+
+委托开始: batchno 6 time: 132542 125
+委托回报-单笔下单: batchno 6 time: 132542 125
+成交回报: batchno 6 time: 132542 344
+
+委托开始: batchno 7 time: 132837 875
+委托回报-单笔下单: batchno 7 time: 132837 875
+委托开始: batchno 11 time: 135209 380
+委托回报-单笔下单: batchno 11 time: 135209 380
+
+
+成交回报: batchno 11 time: 142059 221
+委托开始: batchno 12 time: 144543 751
+委托回报-单笔下单: batchno 12 time: 144543 766
+成交回报: batchno 12	2	0 time: 144607 666
+委托开始: batchno 13 time: 144837 660
+委托回报-单笔下单: batchno 13 time: 144837 660
+成交回报: batchno 13 time: 144903 478
+委托开始: batchno 14 time: 145003 647
+委托回报-单笔下单: batchno 14 time: 145003 647
+成交回报: batchno 14 time: 145016 346
+委托开始: batchno 15 time: 145159 930
+委托回报-单笔下单: batchno 15 time: 145159 945
+成交回报: batchno 15	2	0 time: 145222 971
